@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: tech effect
+  name: techeffect
   description: The tech effect API
   tags:
-    - tech effect
+    - techeffect
     - rest
   links:
     - url: https://github.com/swagger-api/swagger-petstore
