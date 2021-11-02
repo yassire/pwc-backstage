@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: pwc-components
+  description: A collection of all pwc components
+spec:
+  targets:
+    - ./components/tea-tool-finder-component.yaml

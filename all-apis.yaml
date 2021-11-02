@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: pwc-apis
+  description: A collection of all pwc apis
+spec:
+  targets:
+    - ./apis/tech-effect-api.yaml
